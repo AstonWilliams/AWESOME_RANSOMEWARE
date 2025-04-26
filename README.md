@@ -1,6 +1,6 @@
 # Ransomware python implementation 🔒
 
-![Warning](warning_image.png)
+![Warning](snap.png)
 
 > **⚠️ Educational Use Only**  
 > Simulated ransomware for cybersecurity training. Never deploy maliciously.
