@@ -1,6 +1,8 @@
 # Ransomware python implementation 🔒
+[![Awesome Logo](awesome-logo-png-transparent.png)]
+[![GitHub Icon](github-icon-logo-black-and-white.png)](https://github.com/AstonWilliams)
+[![Warning](snap.png)]
 
-![Warning](snap.png)
 
 > **⚠️ Educational Use Only**  
 > Simulated ransomware for cybersecurity training. Never deploy maliciously.
